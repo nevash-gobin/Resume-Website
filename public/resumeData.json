@@ -1,0 +1,163 @@
+{
+  "main": {
+    "name": "Nevash Gobin",
+    "occupation": "Recent Graduate",
+    "description": " ", 
+    "image": "profilepic.jpg",
+    "bio": "I am an open-minded, driven, and generally introverted person. ",
+    "bio2":"I work well in teams as I adapt to changes with ease. Furthermore, I am open to challenges and constructive feedback and my aim is to constantly develop my professional and personal skills.",
+    "bio3":"In my free time, I often enjoy video games and sports.",
+    "contactmessage": "Contact Me",
+    "email": "nevash19@gmail.com",
+    "phone": "(868) 703-7113",
+    "address": {
+      "street": "Hin Kin Street",
+      "city": "Cunupia",
+      "country": "Trinidad & Tobago",
+      "zip": " "
+    },
+    "website": "/",
+    "resumedownload": "Nevash Gobin Resume - Bsc. Information Technology.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/nevash.gobin",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nevash-gobin-715b481b3/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/nevash_gobin",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/nevash-gobin",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://api.whatsapp.com/send?phone=18687037114",
+        "className": "fa fa-whatsapp whatsapp-icon"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Strong knowledge of Object-Oriented Programming and application development tools using Java, Python, Javascript, C++,PHP, HTML/CSS, Git, and Android Development. ",
+    "skillmessage2":"Full-Stack Web Development using ReactJs, ExpressJs, ElephantSql, Laravel, Git, NodeJs, and Bootstrap.",
+    "skillmessage3": "Cloud infrastructure including Amazon Web Services (AWS), IBM Cloud, Microsoft Azure, and Google Cloud.",
+
+    "education": [
+      {
+        "school": "University of the West Indies, St. Augustine",
+        "degree": "BSc. Information Technology (Hons) ",
+        "graduated": "2021",
+        "description": "Final Project: myAdvisor - self-academic advising and GPA management system for the Department of Computing and Technology students at the University of the West Indies, St. Augustine."
+      },
+      {
+        "school": "Hillview College",
+        "Studies": "Business/Computer Science",
+        "graduated": "2015 CXC, 2017 CAPE",
+        "description": "Business/Computer Science"
+      }
+    ],
+    "work": [
+      {
+        "company": "The Client Catchers Ltd.",
+        "title": "Web Development Intern",
+        "years": "August 2020 - Present",
+        "description": "Developing a Web App using NodeJs, React, HTML/CSS, and Bootstrap."
+      },
+      {
+        "company": "Alma Jordan Library, UWI, St. Augustine",
+        "title": "Full-Stack Developer Intern",
+        "years": "June 2020 - August 2020",
+        "description": "Developed a web curbside pickup system for the campus’ library using the Laravel-PHP Framework."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5/CSS",
+        "level": "98%"
+      },
+      {
+        "name": "SQL",
+        "level": "75%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "97%"
+      },
+      {
+        "name": "ExpressJs",
+        "level": "72%"
+      },
+      {
+        "name": "Python",
+        "level": "93%"
+      },
+      {
+        "name": "PHP",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "myAdvisor",
+        "category": "Self-Academic Advising App for UWI",
+        "image": "myAdvisor.png",
+        "url": "https://myadvisorapp.herokuapp.com"
+      },
+      {
+        "title": "PiFarm",
+        "category": "This project was built using ReactJs to automate a hydroponic system.",
+        "image": "pifarm.png",
+        "url": "/"
+      },
+      {
+        "title": "Checkout Page Challenge",
+        "category": "Responsive design challenge from devchallenges.io. Built using flexbox and CSS grid.",
+        "image": "checkout.png",
+        "url": "/"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A ReactJs based resume website",
+        "image": "resume-website.jpg",
+        "url": "/"
+      },
+      {
+        "title": "BMI Calculator",
+        "category": "React Hooks app to calculate the BMI of a person.",
+        "image": "bmi.jpg",
+        "url": "/"
+      }
+    ]
+  },
+  "Certifications": {
+    "Certifications": [
+      {
+        "text": "Javascript Essential Training [2020]",
+        "user": "- LinkedIn Learning"
+      },
+      {
+        "text": "React - The Complete Guide [2020]",
+        "user": "- Udemy"
+      }
+    ]
+  }
+}
