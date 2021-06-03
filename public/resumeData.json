@@ -48,7 +48,7 @@
   },
   "resume": {
     "skillmessage": "Strong knowledge of Object-Oriented Programming and application development tools using Java, Python, Javascript, C++,PHP, HTML/CSS, Git, and Android Development. ",
-    "skillmessage2":"Full-Stack Web Development using ReactJs, ExpressJs, ElephantSql, Laravel, Git, NodeJs, and Bootstrap.",
+    "skillmessage2":"Full-Stack Web Development using ReactJs/React Native, ExpressJs, PostgreSQL, Laravel, Git, NodeJs, and Bootstrap.",
     "skillmessage3": "Cloud infrastructure including Amazon Web Services (AWS), IBM Cloud, Microsoft Azure, and Google Cloud.",
 
     "education": [
