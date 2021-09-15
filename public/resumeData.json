@@ -17,7 +17,7 @@
       "zip": " "
     },
     "website": "/",
-    "resumedownload": "Nevash Gobin Resume - Bsc. Information Technology.pdf",
+    "resumedownload": "Nevash Gobin - BSc. Information Technology.pdf",
     "social": [
       {
         "name": "facebook",
@@ -47,8 +47,8 @@
     ]
   },
   "resume": {
-    "skillmessage": "Strong knowledge of Object-Oriented Programming and application development tools using Java, Python, Javascript, C++,PHP, HTML/CSS, Git, and Android Development. ",
-    "skillmessage2":"Full-Stack Web Development using ReactJs/React Native, ExpressJs, PostgreSQL, Laravel, Git, NodeJs, and Bootstrap.",
+    "skillmessage": "Strong knowledge of Object-Oriented Programming and application development tools using Java, Python, Javascript, C++, C#, PHP, HTML/CSS, Git, Windows Server, and Android Development. ",
+    "skillmessage2":"Full-Stack Web Development using ReactJs/React Native, ASP.NET, NodeJs, PostgreSQL, MongoDB, Laravel, and Bootstrap.",
     "skillmessage3": "Cloud infrastructure including Amazon Web Services (AWS), IBM Cloud, Microsoft Azure, and Google Cloud.",
 
     "education": [
@@ -67,11 +67,19 @@
     ],
     "work": [
       {
+        "company": "Pellau Media Ltd.",
+        "title": "Web Design Intern",
+        "years": "September 2021 - Present",
+        "description": "Assisting in Web Design."
+      },
+
+      {
         "company": "The Client Catchers Ltd.",
         "title": "Web Development Intern",
         "years": "August 2020 - Present",
         "description": "Developing a Web App using NodeJs, React, HTML/CSS, and Bootstrap."
       },
+
       {
         "company": "Alma Jordan Library, UWI, St. Augustine",
         "title": "Full-Stack Developer Intern",
@@ -94,7 +102,7 @@
       },
       {
         "name": "SQL",
-        "level": "75%"
+        "level": "79%"
       },
       {
         "name": "Bootstrap",
@@ -102,7 +110,7 @@
       },
       {
         "name": "ExpressJs",
-        "level": "72%"
+        "level": "75%"
       },
       {
         "name": "Python",
@@ -122,11 +130,19 @@
         "image": "myAdvisor.png",
         "url": "https://myadvisorapp.herokuapp.com"
       },
+
       {
-        "title": "PiFarm",
-        "category": "This project was built using ReactJs to automate a hydroponic system.",
-        "image": "pifarm.png",
-        "url": "/"
+        "title": "E-Commerce Website",
+        "category": "React E-Commerce website.",
+        "image": "E-commerce.png",
+        "url": "/https://nevash-gobin.github.io/E-Commerce-Website/"
+      },
+
+      {
+        "title": "Booking System",
+        "category": "A React based booking system",
+        "image": "booking.png",
+        "url": "https://nevash-gobin.github.io/React-Booking-System-master/"
       },
       {
         "title": "Checkout Page Challenge",
@@ -138,14 +154,22 @@
         "title": "Resume Website",
         "category": "A ReactJs based resume website",
         "image": "resume-website.jpg",
-        "url": "/"
+        "url": "https://nevash-gobin.web.app/"
       },
       {
         "title": "BMI Calculator",
         "category": "React Hooks app to calculate the BMI of a person.",
         "image": "bmi.jpg",
         "url": "/"
+      },
+
+      {
+        "title": "PiFarm",
+        "category": "This project was built using React.js to automate a hydroponic system.",
+        "image": "pifarm.png",
+        "url": "/"
       }
+      
     ]
   },
   "Certifications": {
