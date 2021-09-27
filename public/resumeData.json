@@ -56,7 +56,7 @@
         "school": "University of the West Indies, St. Augustine",
         "degree": "BSc. Information Technology (Hons) ",
         "graduated": "2021",
-        "description": "Final Project: myAdvisor - self-academic advising and GPA management system for the Department of Computing and Technology students at the University of the West Indies, St. Augustine."
+        "description": "Final Project: myAdvisor - self-academic advising and GPA management system with a chatbot using the Microsoft Bot Framework for the Department of Computing and Technology students at the University of the West Indies, St. Augustine."
       },
       {
         "school": "Hillview College",
@@ -67,24 +67,24 @@
     ],
     "work": [
       {
-        "company": "Pellau Media Ltd.",
-        "title": "Web Design Intern",
-        "years": "September 2021 - Present",
-        "description": "Assisting in Web Design."
+        "company": "DriveWise Trinidad Ltd.",
+        "title": "IT and Software Developer",
+        "years": "October 2021 - Present",
+        "description": " "
       },
 
       {
         "company": "The Client Catchers Ltd.",
         "title": "Web Development Intern",
-        "years": "August 2020 - Present",
-        "description": "Developing a Web App using NodeJs, React, HTML/CSS, and Bootstrap."
+        "years": "August 2020 - July 2021",
+        "description": "Developed a Web Application using NodeJs, React, HTML/CSS, and Bootstrap."
       },
 
       {
         "company": "Alma Jordan Library, UWI, St. Augustine",
         "title": "Full-Stack Developer Intern",
         "years": "June 2020 - August 2020",
-        "description": "Developed a web curbside pickup system for the campus’ library using the Laravel-PHP Framework."
+        "description": "Developed a web curbside pickup system for UWI's Library using the Laravel-PHP Framework."
       }
     ],
     "skills": [
@@ -94,15 +94,15 @@
       },
       {
         "name": "Javascript",
-        "level": "90%"
+        "level": "92%"
       },
       {
         "name": "HTML5/CSS",
-        "level": "98%"
+        "level": "99%"
       },
       {
         "name": "SQL",
-        "level": "79%"
+        "level": "80%"
       },
       {
         "name": "Bootstrap",
@@ -114,10 +114,10 @@
       },
       {
         "name": "Python",
-        "level": "93%"
+        "level": "90%"
       },
       {
-        "name": "PHP",
+        "name": "Laravel",
         "level": "90%"
       }
     ]
@@ -180,6 +180,10 @@
       },
       {
         "text": "React - The Complete Guide [2020]",
+        "user": "- Udemy"
+      },
+      {
+        "text": "PHP with Laravel for beginners - Become a Master in Laravel [Present]",
         "user": "- Udemy"
       }
     ]
