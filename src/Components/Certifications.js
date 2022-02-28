@@ -25,7 +25,7 @@ class Certifications extends Component {
       <div className="text-container">
          <div className="row">
             <div >
-               <h1><span>Certifications</span></h1>
+               <h1><span>Courses</span></h1>
             </div>
             <div className="ten columns flex-container">
                   <ul className="slides">

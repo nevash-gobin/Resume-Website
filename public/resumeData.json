@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Nevash Gobin",
-    "occupation": "Recent Graduate",
+    "occupation": "Technical Analyst",
     "description": " ", 
     "image": "profilepic.jpg",
     "bio": "I am an open-minded, driven, and generally introverted person. ",
@@ -67,9 +67,16 @@
     ],
     "work": [
       {
+        "company": "Republic Bank Ltd. ",
+        "title": "Technical Analyst",
+        "years": "March 2022 - Present",
+        "description": " "
+      },
+
+      {
         "company": "DriveWise Trinidad Ltd.",
         "title": "IT and Software Developer",
-        "years": "October 2021 - Present",
+        "years": "October 2021 - February 2022",
         "description": " "
       },
 
@@ -183,7 +190,7 @@
         "user": "- Udemy"
       },
       {
-        "text": "PHP with Laravel for beginners - Become a Master in Laravel [Present]",
+        "text": "Windows Server 2019: Active Directory, GPO, R. Server Access [2022]",
         "user": "- Udemy"
       }
     ]

@@ -26,7 +26,7 @@ class Header extends Component {
             <li><a className="smoothscroll" href="#about">About</a></li>
 	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
             <li><a className="smoothscroll" href="#portfolio">Portfolio</a></li>
-            <li><a className="smoothscroll" href="#testimonials">Certifications</a></li>
+            <li><a className="smoothscroll" href="#testimonials">Courses</a></li>
             <li><a className="smoothscroll" href="#contact">Contact</a></li>
          </ul>
 
@@ -35,7 +35,7 @@ class Header extends Component {
       <div className="row banner">
          <div className="banner-text">
             <h1 className="responsive-headline">{name}</h1>
-            <h3>Recent Information Technology graduate with fundamental knowledge of web and software and design, development, and testing. Seeking to utilize broad educational background with excellent analytical, technical, and programming skills to thrive in the field. 👨‍💻</h3>
+            <h3>Information Technology graduate with fundamental knowledge of web and software and design, development, and testing. Seeking to utilize broad educational background with excellent analytical, technical, and programming skills to thrive in the field. 👨‍💻</h3>
             <hr />
             <ul className="social">
                {networks}
