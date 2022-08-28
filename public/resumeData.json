@@ -47,9 +47,9 @@
     ]
   },
   "resume": {
-    "skillmessage": "Strong knowledge of Object-Oriented Programming and application development tools using Java, Python, Javascript, C++, C#, PHP, HTML/CSS, Git, Windows Server, and Android Development. ",
-    "skillmessage2":"Full-Stack Web Development using ReactJs/React Native, ASP.NET, NodeJs, PostgreSQL, MongoDB, Laravel, and Bootstrap.",
-    "skillmessage3": "Cloud infrastructure including Amazon Web Services (AWS), IBM Cloud, Microsoft Azure, and Google Cloud.",
+    "skillmessage": "Strong knowledge of Object-Oriented Programming and application development tools using Python, Javascript, C++, PHP, HTML/CSS, Git and Windows Server ",
+    "skillmessage2":"Full-Stack Web Development using ReactJs/React Native, NodeJs, PostgreSQL, MongoDB, Laravel, and Bootstrap.",
+    "skillmessage3": "Cloud infrastructure including Amazon Web Services (AWS), IBM Cloud, and Microsoft Azure.",
 
     "education": [
       {
@@ -70,7 +70,7 @@
         "company": "Republic Bank Ltd. ",
         "title": "Technical Analyst",
         "years": "March 2022 - Present",
-        "description": " "
+        "description": "• Information Technology Management Division (ITMD)"
       },
 
       {
@@ -168,13 +168,6 @@
         "category": "React Hooks app to calculate the BMI of a person.",
         "image": "bmi.jpg",
         "url": "/"
-      },
-
-      {
-        "title": "PiFarm",
-        "category": "This project was built using React.js to automate a hydroponic system.",
-        "image": "pifarm.png",
-        "url": "/"
       }
       
     ]
@@ -186,7 +179,7 @@
         "user": "- LinkedIn Learning"
       },
       {
-        "text": "React - The Complete Guide [2020]",
+        "text": "React - The Complete Guide [2021]",
         "user": "- Udemy"
       },
       {

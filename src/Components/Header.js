@@ -35,7 +35,7 @@ class Header extends Component {
       <div className="row banner">
          <div className="banner-text">
             <h1 className="responsive-headline">{name}</h1>
-            <h3>Information Technology graduate with fundamental knowledge of web and software and design, development, and testing. Seeking to utilize broad educational background with excellent analytical, technical, and programming skills to thrive in the field. 👨‍💻</h3>
+            <h3>A multi-talented, solution-oriented, and highly analytical IT professional with a wide range of skills in systems installation, configuration, upgrading, maintenance and programming. Skillful administration and troubleshooting expertise for a range of Microsoft OS and Windows Server products. Proficiency in grasping new functional concepts quickly and utilizing them in a productive manner. 👨‍💻</h3>
             <hr />
             <ul className="social">
                {networks}
